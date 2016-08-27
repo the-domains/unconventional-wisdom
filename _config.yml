@@ -1,4 +1,3 @@
-layout_spectrum: 0.3555515226908028
 typography_spectrum: 0.7382700676098466
 color:
   brandStrength: 0.033638616325333714
@@ -11,4 +10,8 @@ color:
     - '#374140'
     - '#2A2C2B'
     - '#1E1E20'
+layout_spectrum: 0.3555515226908028
+author:
+  name: Eric Patnoudes M.Ed.
+  email: epatnoudes@gmail.com
 name: unconventional wisdom
